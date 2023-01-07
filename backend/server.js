@@ -39,7 +39,8 @@ const server = app.listen(port,console.log(`Server started at ${port}`)); // mak
 const io = require('socket.io')(server, {
     pingTimeout:60000, // waiting time before goes off 
     cors: {
-        origin:'http://localhost:3000'
+//         origin:'http://localhost:3000'
+        origin:'https://chatflix.onrender.com'
     }
 })
 io.on("connection",(socket)=>{
