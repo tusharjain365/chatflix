@@ -11,7 +11,8 @@ import './style.css';
 import io from 'socket.io-client';
 import TypingAnimation from "../Animation/TypingAnimation";
 
-const ENDPOINT = 'https://tj-chatflix.herokuapp.com/';
+// const ENDPOINT = 'https://tj-chatflix.herokuapp.com/';
+const ENDPOINT = 'https://chatflix.onrender.com';
 let socket,selectedChatCompare;
 
 const SingleChat = ({fetchAgain, setFetchAgain})=>{
