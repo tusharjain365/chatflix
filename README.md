@@ -2,7 +2,25 @@
 
 Chatflix is a full stack MERN chat app made with socket.
 
-Whole app can be found here [Chatflix](https://tj-chatflix.herokuapp.com/)
+Whole app can be found here [Chatflix](https://chatflix.onrender.com/)
+
+# Screenshots
+
+## Login and SignUp
+<img width="434" alt="image" src="https://user-images.githubusercontent.com/75572829/215311897-885cbe5b-1c28-4c8e-850a-9023c9a89311.png">
+
+## Realtime chatting and typing indicator
+<img width="935" alt="image" src="https://user-images.githubusercontent.com/75572829/215311975-718a8dd4-6079-431e-973a-ddbb64cb8bb2.png">
+
+## Home Screen and Create Chat modal
+<img width="933" alt="image" src="https://user-images.githubusercontent.com/75572829/215312031-9457a6ab-9c4e-44ed-bfcf-78b04f162140.png">
+
+## Search User Screen
+<img width="936" alt="image" src="https://user-images.githubusercontent.com/75572829/215312048-3c393dc8-c3f8-4dd3-843e-3743e6467a40.png">
+
+## Admin privileges
+<img width="928" alt="image" src="https://user-images.githubusercontent.com/75572829/215312071-b5709a24-66dc-4e14-87d3-058b313d7308.png">
+
 
 ## Features
 1. Authentication with JWT token.
