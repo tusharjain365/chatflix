@@ -36,7 +36,7 @@ Whole app can be found here [Chatflix](https://chatflix.onrender.com/)
 
 `MONGO_URI` = (Your mongodb link which you will get after making this project on mongodb atlas)
 
-`SECRET` = KYADEKHRHA (Your secret to match with JWT token while authenticating, it could be anything)
+`SECRET` = (Your secret to match with JWT token while authenticating, it could be anything)
 
 `NODE_ENV` = producion (Used for Deployment of app)
 
